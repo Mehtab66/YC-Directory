@@ -39,3 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # YC-Directory
 >>>>>>> 202885bbe87a5ef1854a413e6b739c69316f98c9
 "# YC-Directory" 
+"# YC-Directory" 
